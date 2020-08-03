@@ -27,38 +27,39 @@ How to run the application?
 
 ### Example Input and Output:
 
-*** Welcome To Food Ordering Service ***
-Press 1 to login as User
-Press 2 to Login as Admin
-New User?? Press 3 to Register
-Press 4 to logout
-2
-Enter the AdminID
-111
-Enter the password
-admin
-Admin Authenticated
-Press 1 to add new Restaurant!
-Press 2 to add items to existing Restaurant!
-1
-Enter the first name of restaurant
-Rainbow
-Enter the no of employees
-12
-Your restaurantId is: 1
-Press 1 to add Items
-1
-Enter the first name of the item to be added
-Paneer
-Enter the item price
-200
-Item added: Paneer
-Press 1 to add more item or Press 2 to exit
-1
-Enter the first name of the item to be added
-Chicken
-Enter the item price
-400
+```
+*** Welcome To Food Ordering Service ***      
+Press 1 to login as User         
+Press 2 to Login as Admin          
+New User?? Press 3 to Register           
+Press 4 to logout          
+2          
+Enter the AdminID           
+111         
+Enter the password             
+admin            
+Admin Authenticated             
+Press 1 to add new Restaurant!             
+Press 2 to add items to existing Restaurant!                 
+1                 
+Enter the first name of restaurant                     
+Rainbow                          
+Enter the no of employees                        
+12                            
+Your restaurantId is: 1                             
+Press 1 to add Items                                   
+1                                
+Enter the first name of the item to be added                         
+Paneer                          
+Enter the item price                                  
+200                                
+Item added: Paneer                                    
+Press 1 to add more item or Press 2 to exit                                  
+1                                 
+Enter the first name of the item to be added                                     
+Chicken                                        
+Enter the item price                                         
+400                                              
 Item added: Chicken
 Press 1 to add more item or Press 2 to exit
 1
@@ -149,5 +150,6 @@ Press 2 to Login as Admin
 New User?? Press 3 to Register
 Press 4 to logout
 4
+```
 
 ### For time complexity of the code will be fetching from the map is O(1).
