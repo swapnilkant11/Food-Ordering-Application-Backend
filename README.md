@@ -1,6 +1,6 @@
 # Food-Ordering-Application-Backend
 
-## This documentation is about the Cafeteria System designed, where I have assumed two very important conditions stated below:
+### This documentation is about the Cafeteria System designed, where I have assumed two very important conditions stated below:
 
 1. The admin userId by default is chosen as 111 which is common to every admin.
 2. The admin Password is default chosen as “admin” (without quotes) which is common to every admin.
