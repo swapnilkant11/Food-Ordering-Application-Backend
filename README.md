@@ -152,4 +152,5 @@ Press 4 to logout
 4
 ```
 
-### For time complexity of the code will be fetching from the map is O(1).
+#### For time complexity of the code will be fetching from the map is O(1).
+#### Space complexity is O(n) as many maps have been used as database.
