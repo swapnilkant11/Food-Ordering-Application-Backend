@@ -1,5 +1,7 @@
 # Food-Ordering-Application-Backend
 
+A food ordering application made in java (Basic) and OOPS concept using data structures and algorithms
+
 ### This documentation is about the Cafeteria System designed, where I have assumed two very important conditions stated below:
 
 1. The admin userId by default is chosen as 111 which is common to every admin.
